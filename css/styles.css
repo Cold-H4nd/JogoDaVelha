@@ -11,9 +11,12 @@ h1 {
 /* botões */
 
 #buttons-container button {
-    border: none;
+    border: 3px solid black;
     padding: 10px 15px;
     margin: 0 10px;
+    background-color: transparent;
+    font-size: 30px;
+    cursor: pointer;
 }
 
 /* jogo */
